@@ -9,6 +9,6 @@
   "author": "John Darragh",
   "license": "ISC",
   "dependencies": {
-    "jest": "^23.6.0"
+    "jest": "^24.7.1"
   }
 }

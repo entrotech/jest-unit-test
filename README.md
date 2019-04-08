@@ -9,7 +9,7 @@ npm install jest
 From a terminal window, execute the unit test:
 
 ```
-> jest
+> npm test
 ```
 
 You should get something like this:
